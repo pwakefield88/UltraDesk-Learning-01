@@ -1,4 +1,6 @@
 .top-bar-main {
+  display: -webkit-flex;
+  flex-direction: row;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-transform: uppercase;
 }
