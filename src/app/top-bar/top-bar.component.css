@@ -3,4 +3,6 @@
   flex-direction: row;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-transform: uppercase;
+  border-style:dashed;
+  border-color:red;
 }
