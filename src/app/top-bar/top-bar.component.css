@@ -4,10 +4,15 @@
   flex-direction: row;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-transform: uppercase;
+  opacity: 1;
 }
 
 .top-bar-nav {
   display: -webkit-flex;
   align-items: center;
   justify-content: center;
+}
+
+.top-bar-nav p:hover {
+  opacity: 0.4;
 }
