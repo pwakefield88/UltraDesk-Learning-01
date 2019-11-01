@@ -1,19 +1,13 @@
 .top-bar-main {
   display: -webkit-flex;
-  align-content: center;
+  justify-content: space-between;
   flex-direction: row;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-transform: uppercase;
-  border-style:dashed;
-  border-color:red;
 }
 
 .top-bar-nav {
   display: -webkit-flex;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  text-transform: uppercase;
-  border-style:dashed;
-  border-color:greenyellow;
-  margin: 0;
-  padding: 10px;
+  align-items: center;
+  justify-content: center;
 }
