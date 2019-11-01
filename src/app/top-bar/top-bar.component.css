@@ -13,4 +13,6 @@
   text-transform: uppercase;
   border-style:dashed;
   border-color:greenyellow;
+  margin: 0;
+  padding: 10px;
 }
