@@ -12,6 +12,6 @@ import { AuthService } from './auth.service';
   imports:      [ BrowserModule, FormsModule, AppRoutingModule ],
   declarations: [ AppComponent, TopBarComponent, LoginComponent, WelcomeComponent ],
   bootstrap:    [ AppComponent ],
-  providers: [AuthService]
+  providers: [ AuthService ]
 })
 export class AppModule { }

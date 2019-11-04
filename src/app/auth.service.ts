@@ -5,6 +5,6 @@ export class AuthService {
 
   constructor() { }
 
-  getUserDetails(){}
+  getUserDetails(username, password){}
 
 }
