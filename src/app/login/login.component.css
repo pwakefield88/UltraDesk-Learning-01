@@ -41,7 +41,7 @@
   margin-top:10px;
 }
 
-.login-username button {
+.login-username .submit {
   border-radius: 10px 10px 10px 10px;
   border-style: none;
   width: 150px;
@@ -50,6 +50,6 @@
   text-transform: uppercase;
 }
 
-.login-username button:hover {
+.login-username .submit:hover {
   background-color: grey;
 }
