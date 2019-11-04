@@ -6,11 +6,12 @@ import { AppComponent } from './app.component';
 import { TopBarComponent } from './top-bar/top-bar.component';
 import { LoginComponent } from './login/login.component';
 import { WelcomeComponent } from './welcome/welcome.component';
+import { AuthService } from './auth.service';
 
 @NgModule({
   imports:      [ BrowserModule, FormsModule, AppRoutingModule ],
   declarations: [ AppComponent, TopBarComponent, LoginComponent, WelcomeComponent ],
   bootstrap:    [ AppComponent ],
-  providers: []
+  providers: [AuthService]
 })
 export class AppModule { }
