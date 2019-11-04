@@ -4,6 +4,6 @@
 
 Added Component:
 * Login
-*
+* Welcome
 * Top-Bar
 * app-Routing Module
