@@ -36,6 +36,7 @@
 .login-username input {
   border-radius: 10px 10px 10px 10px;
   border-style: none;
+  text-align: center;
   width: 150px;
 }
 
