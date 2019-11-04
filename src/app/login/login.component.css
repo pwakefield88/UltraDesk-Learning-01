@@ -1,0 +1,22 @@
+.login-container {
+  display: -webkit-flex;
+  justify-content: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  opacity: 1;
+  background-color: lightgray;
+  border-radius: 10px 10px 10px 10px;
+  height: auto;
+  width: auto;
+}
+
+.login-box {
+  display: -webkit-box;
+  height: 200px;
+  width: 500px;
+  background-color: darkgray;
+  border-radius: 20px 20px 20px 20px;
+  margin-top: 150px;
+  margin-bottom: 150px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
